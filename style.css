@@ -62,3 +62,26 @@ h1 {
     letter-spacing: 4.08571px;
     color: #53FFAA;
 }
+
+@media (max-width:376px){
+    .middlecontainer {
+        width: 343px;
+        height: 315px;
+
+    
+    
+    }
+    .adviceDiv {
+       
+        font-size: 24px;
+
+    }
+    h1 {
+
+        font-size: 11px;
+
+    }
+    .surati{
+        width: 295px;
+    }
+}
